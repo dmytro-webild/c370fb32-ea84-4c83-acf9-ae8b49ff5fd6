@@ -1,19 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Libre+Baskerville:wght@400;500;600;700&display=swap');
 @import url("https://fonts.cdnfonts.com/css/messy-handwritten");
 @import "tailwindcss";
 @import "./styles/animations.css";
 @import "./styles/masks.css";
 
 :root {
-  --primary-cta: #0a705f;
-  --primary-cta-text: #fafffb;
-  --secondary-cta: #ffffff;
-  --secondary-cta-text: #001a0a;
-  --background-accent: #6bbfb8;
+  --primary-cta: #2C1810;
+  --primary-cta-text: #F5F0E8;
+  --secondary-cta: #FFFFFF;
+  --secondary-cta-text: #2C1810;
+  --background-accent: #6F4E37;
 
-  --background: #fafffb;
-  --foreground: #001a0a;
-  --card: #ffffff;
+  --background: #F5F0E8;
+  --foreground: #2C1810;
+  --card: #EDE7DB;
   --card-foreground: var(--foreground);
   --popover: var(--card);
   --popover-foreground: var(--foreground);
@@ -23,7 +22,7 @@
   --secondary-foreground: var(--secondary-cta-text);
   --muted: oklch(0.8994 0.0173 84.59);
   --muted-foreground: oklch(0.234 0.0179 42.46);
-  --accent: #a8d9be;
+  --accent: #8B7355;
   --accent-foreground: oklch(0.9568 0.0119 79.78);
   --destructive: #ef4444;
   --destructive-foreground: #ffffff;
@@ -55,8 +54,8 @@
   --color-input: var(--input);
   --color-ring: var(--ring);
 
-  --font-sans: 'Inter', sans-serif;
-  --font-serif: 'Libre Baskerville', sans-serif;
+  --font-sans: "Inter", sans-serif;
+  --font-serif: "Messy Handwritten", sans-serif;
   --font-tight: "Inter Tight", sans-serif;
   --font-mono: monospace;
 
@@ -88,7 +87,7 @@ body {
   margin: 0;
   background-color: var(--background);
   color: var(--foreground);
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   position: relative;
   min-height: 100vh;
   overscroll-behavior: none;
@@ -101,7 +100,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Libre Baskerville', sans-serif;
+  font-family: "Messy Handwritten", sans-serif;
 }
 
 .card {
