@@ -34,7 +34,7 @@ export default function HomePage() {
           videoSrc="https://storage.googleapis.com/webild/default/templates/coffee-shop/hero.mp4"
           floatingCards={[
             {
-              imageSrc: "https://storage.googleapis.com/webild/default/templates/coffee-shop/iced-coffee-1600.webp",
+              imageSrc: "https://storage.googleapis.com/webild/default/templates/coffee-shop/iced-coffee-1600.webp?_wi=1",
               name: "Americano"
             },
             {
@@ -55,10 +55,10 @@ export default function HomePage() {
               imageSrc: "https://storage.googleapis.com/webild/default/templates/coffee-shop/photo-trail-1-1600.webp"
             },
             {
-              imageSrc: "https://storage.googleapis.com/webild/default/templates/coffee-shop/photo-trail-2-1600.webp"
+              imageSrc: "https://storage.googleapis.com/webild/default/templates/coffee-shop/photo-trail-2-1600.webp?_wi=1"
             },
             {
-              imageSrc: "https://storage.googleapis.com/webild/default/templates/coffee-shop/photo-trail-3-1600.webp"
+              imageSrc: "https://storage.googleapis.com/webild/default/templates/coffee-shop/photo-trail-3-1600.webp?_wi=1"
             },
             {
               imageSrc: "https://storage.googleapis.com/webild/default/templates/coffee-shop/photo-trail-4-1600.webp"
@@ -67,10 +67,10 @@ export default function HomePage() {
               imageSrc: "https://storage.googleapis.com/webild/default/templates/coffee-shop/photo-trail-5-1600.webp"
             },
             {
-              imageSrc: "https://storage.googleapis.com/webild/default/templates/coffee-shop/photo-trail-6-1600.webp"
+              imageSrc: "https://storage.googleapis.com/webild/default/templates/coffee-shop/photo-trail-6-1600.webp?_wi=1"
             },
             {
-              imageSrc: "https://storage.googleapis.com/webild/default/templates/coffee-shop/photo-trail-7-1600.webp"
+              imageSrc: "https://storage.googleapis.com/webild/default/templates/coffee-shop/photo-trail-7-1600.webp?_wi=1"
             },
             {
               imageSrc: "https://storage.googleapis.com/webild/default/templates/coffee-shop/photo-trail-8-1600.webp"
@@ -112,7 +112,7 @@ export default function HomePage() {
             {
               name: "Iced Latte",
               category: "Cold Drinks",
-              imageSrc: "https://storage.googleapis.com/webild/default/templates/coffee-shop/photo-trail-2-1600.webp"
+              imageSrc: "https://storage.googleapis.com/webild/default/templates/coffee-shop/photo-trail-2-1600.webp?_wi=2"
             },
             {
               name: "Cappuccino",
@@ -122,7 +122,7 @@ export default function HomePage() {
             {
               name: "Iced Americano",
               category: "Cold Drinks",
-              imageSrc: "https://storage.googleapis.com/webild/default/templates/coffee-shop/iced-coffee-1600.webp"
+              imageSrc: "https://storage.googleapis.com/webild/default/templates/coffee-shop/iced-coffee-1600.webp?_wi=2"
             },
             {
               name: "Mocha",
@@ -132,12 +132,12 @@ export default function HomePage() {
             {
               name: "Iced Mocha",
               category: "Cold Drinks",
-              imageSrc: "https://storage.googleapis.com/webild/default/templates/coffee-shop/photo-trail-6-1600.webp"
+              imageSrc: "https://storage.googleapis.com/webild/default/templates/coffee-shop/photo-trail-6-1600.webp?_wi=2"
             },
             {
               name: "Flat White",
               category: "Hot Drinks",
-              imageSrc: "https://storage.googleapis.com/webild/default/templates/coffee-shop/photo-trail-7-1600.webp"
+              imageSrc: "https://storage.googleapis.com/webild/default/templates/coffee-shop/photo-trail-7-1600.webp?_wi=2"
             },
             {
               name: "Iced Flat White",
@@ -152,7 +152,7 @@ export default function HomePage() {
             {
               name: "Croissant",
               category: "Pastries",
-              imageSrc: "https://storage.googleapis.com/webild/default/templates/coffee-shop/photo-trail-3-1600.webp"
+              imageSrc: "https://storage.googleapis.com/webild/default/templates/coffee-shop/photo-trail-3-1600.webp?_wi=2"
             },
             {
               name: "Chocolate Chip Cookie",
