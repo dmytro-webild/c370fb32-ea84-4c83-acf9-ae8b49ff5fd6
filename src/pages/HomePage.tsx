@@ -21,7 +21,7 @@ export default function HomePage() {
       <div id="hero" data-webild-section="HeroBillboardBrandFloatingCards" data-webild-section-id="HeroBillboardBrandFloatingCards-1" data-section="hero">
         <HeroBillboardBrandFloatingCards
           textAnimation="fade-blur"
-          brand="Kangen Kopi"
+          brand="Joe's Coffee"
           description="Handcrafted espresso drinks and freshly baked pastries in a warm, welcoming atmosphere. From our first roast to your morning cup, every sip tells a story."
           primaryButton={{
             text: "Order Now",
