@@ -4,15 +4,15 @@
 @import "./styles/masks.css";
 
 :root {
-  --primary-cta: #0a705f;
-  --primary-cta-text: #fafffb;
-  --secondary-cta: #ffffff;
-  --secondary-cta-text: #001a0a;
-  --background-accent: #6bbfb8;
+  --primary-cta: #ffffff;
+  --primary-cta-text: #051a12;
+  --secondary-cta: #0d2b1f;
+  --secondary-cta-text: #d4f6e8;
+  --background-accent: #10b981;
 
-  --background: #fafffb;
-  --foreground: #001a0a;
-  --card: #ffffff;
+  --background: #000000;
+  --foreground: #ffffff;
+  --card: #1f4035;
   --card-foreground: var(--foreground);
   --popover: var(--card);
   --popover-foreground: var(--foreground);
@@ -22,7 +22,7 @@
   --secondary-foreground: var(--secondary-cta-text);
   --muted: oklch(0.8994 0.0173 84.59);
   --muted-foreground: oklch(0.234 0.0179 42.46);
-  --accent: #a8d9be;
+  --accent: #0d5238;
   --accent-foreground: oklch(0.9568 0.0119 79.78);
   --destructive: #ef4444;
   --destructive-foreground: #ffffff;
