@@ -7,7 +7,7 @@ export default function Layout() {
     <div className="relative isolate min-h-svh flex flex-col bg-background text-foreground">
       <header data-webild-section="Header">
         <NavbarFullscreen
-          logo="Joe's Coffee"
+          logo="Kangen Kopi & Space"
           navItems={[
             {
               name: "Menu",
