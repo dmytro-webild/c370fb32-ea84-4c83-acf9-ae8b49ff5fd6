@@ -172,18 +172,18 @@ export default function HomePage() {
           topItems={[
             {
               title: "Private Events",
-              description: "Book our space for birthdays, meetings, or just a good excuse to get together. Great coffee and good vibes included.",
+              description: "Pesan tempat kami untuk acara ulang tahun, rapat, atau sekadar sebagai alasan untuk berkumpul bersama. Kopi nikmat dan suasana yang menyenangkan sudah termasuk di dalamnya.",
               imageSrc: "https://storage.googleapis.com/webild/users/user_3MPb0JT5Eznw1anwCu1RDDh9605/uploaded-1795606496713-36c42r8k.png"
             },
             {
               title: "Catering",
-              description: "Let us handle the coffee and pastries for your next event. We'll set up, pour, and make sure nobody runs on empty.",
+              description: "Serahkan urusan kopi dan kudapan untuk acara Anda berikutnya kepada kami. Kami akan menyiapkan segalanya, menuangkan minuman, dan memastikan tidak ada tamu yang kehabisan konsumsi.",
               imageSrc: "https://storage.googleapis.com/webild/users/user_3MPb0JT5Eznw1anwCu1RDDh9605/uploaded-1795607613478-x8r3kk6b.png"
             }
           ]}
           bottomItem={{
             title: "Custom Menus",
-            description: "Work with our team to build a tailored menu for your event — from espresso bars to pastry platters, we've got you covered.",
+            description: "Bekerjasamalah dengan tim kami untuk menyusun menu yang disesuaikan bagi acara Anda — mulai dari bar espresso hingga sajian aneka kue, kami siap memenuhi kebutuhan Anda.",
             imageSrc: "https://storage.googleapis.com/webild/users/user_3MPb0JT5Eznw1anwCu1RDDh9605/uploaded-1795607577042-ocq08gew.png",
             primaryButton: {
               text: "Get in Touch",
