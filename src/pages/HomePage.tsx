@@ -92,7 +92,7 @@ export default function HomePage() {
           textAnimation="fade-blur"
           tag="What We Serve"
           title="Explore What's on Our Menu"
-          description="From handcrafted espresso drinks to freshly baked pastries, every item is made with care."
+          description="100% Arabica"
           categories={[
             "Hot Drinks",
             "Cold Drinks",
