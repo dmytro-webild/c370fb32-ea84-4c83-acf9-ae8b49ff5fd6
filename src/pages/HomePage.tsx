@@ -31,7 +31,7 @@ export default function HomePage() {
             text: "View Menu",
             href: "#menu"
           }}
-          videoSrc="https://storage.googleapis.com/webild/default/templates/coffee-shop/hero.mp4"
+          imageSrc="https://storage.googleapis.com/webild/users/user_3MPb0JT5Eznw1anwCu1RDDh9605/uploaded-1795606496713-36c42r8k.png"
           floatingCards={[
             {
               imageSrc: "https://storage.googleapis.com/webild/default/templates/coffee-shop/iced-coffee-1600.webp?_wi=1",
