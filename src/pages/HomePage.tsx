@@ -22,7 +22,7 @@ export default function HomePage() {
         <HeroBillboardBrandFloatingCards
           textAnimation="fade-blur"
           brand="Kangen Kopi"
-          description="Handcrafted espresso drinks and freshly baked pastries in a warm, welcoming atmosphere. From our first roast to your morning cup, every sip tells a story."
+          description="Nggak tahu mau kumpul di mana? Temukan tempat untuk bertemu, berbagi cerita, dan menikmati waktu bersama tanpa terburu-buru."
           primaryButton={{
             text: "Order Now",
             href: "#order"
@@ -49,7 +49,7 @@ export default function HomePage() {
         <AboutCursorTrail
           textAnimation="fade-blur"
           tag="Move your cursor!"
-          title="What are you in the mood for?"
+          title="Kamu mau apa?"
           media={[
             {
               imageSrc: "https://storage.googleapis.com/webild/default/templates/coffee-shop/photo-trail-1-1600.webp"
