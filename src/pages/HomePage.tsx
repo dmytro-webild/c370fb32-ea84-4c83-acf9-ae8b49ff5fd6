@@ -31,7 +31,7 @@ export default function HomePage() {
             text: "View Menu",
             href: "#menu"
           }}
-          imageSrc="https://storage.googleapis.com/webild/users/user_3MPb0JT5Eznw1anwCu1RDDh9605/uploaded-1795606496713-36c42r8k.png"
+          imageSrc="https://storage.googleapis.com/webild/users/user_3MPb0JT5Eznw1anwCu1RDDh9605/uploaded-1795606496713-36c42r8k.png?_wi=1"
           floatingCards={[
             {
               imageSrc: "https://storage.googleapis.com/webild/default/templates/coffee-shop/iced-coffee-1600.webp?_wi=1",
@@ -167,13 +167,13 @@ export default function HomePage() {
         <FeaturesGridSplitLarge
           textAnimation="fade-blur"
           tag="Beyond the Cup"
-          title="Host Your Next Event at Joe's"
+          title="Host Your Next Event at Kangen Space"
           description="From intimate gatherings to full-scale catering, we bring the warmth of Joe's wherever you need it."
           topItems={[
             {
               title: "Private Events",
-              description: "Pesan tempat kami untuk acara ulang tahun, rapat, atau sekadar sebagai alasan untuk berkumpul bersama. Kopi nikmat dan suasana yang menyenangkan sudah termasuk di dalamnya.",
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3MPb0JT5Eznw1anwCu1RDDh9605/uploaded-1795606496713-36c42r8k.png"
+              description: "Dari melepas penat hingga berkumpul dengan orang-orang tersayang. Kangen Kopi siap memberikan kehangatan.",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MPb0JT5Eznw1anwCu1RDDh9605/uploaded-1795606496713-36c42r8k.png?_wi=2"
             },
             {
               title: "Catering",
