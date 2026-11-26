@@ -29,7 +29,7 @@ export default function Layout() {
       </main>
       <footer data-webild-section="Footer">
         <FooterBrand
-          brand="Joe's Coffee"
+          brand="Kangen Kopi"
           columns={[
             {
               items: [
