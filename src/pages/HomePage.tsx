@@ -168,7 +168,7 @@ export default function HomePage() {
           textAnimation="fade-blur"
           tag="Beyond the Cup"
           title="Host Your Next Event at Kangen Space"
-          description="From intimate gatherings to full-scale catering, we bring the warmth of Joe's wherever you need it."
+          description=" intimate gatherings to full-scale catering, we bring the warmth of Joe's wherever you need it."
           topItems={[
             {
               title: "Private Events",
